@@ -1,0 +1,1 @@
+Company-sponsored training courses are available up to $2,000 per employee per year. Courses must be job-related and pre-approved by the employee’s manager. Unused training budgets do not roll over. Employees must submit proof of completion to receive reimbursement.

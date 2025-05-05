@@ -1,0 +1,1 @@
+Annual performance reviews occur each November, covering goal achievement, competencies, and career planning. Mid-year check-ins are optional but encouraged. Managers and employees collaboratively set SMART goals. HR audits review calibration across departments to ensure fairness.

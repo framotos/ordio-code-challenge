@@ -1,0 +1,1 @@
+Primary caregivers of newborns or newly adopted children are entitled to 8 weeks of paternity leave, paid at 80% of base salary. Leave must be taken within 6 months of birth or adoption finalization. Employees on international assignments follow local labor law if more generous. Coordination with payroll is required two pay cycles in advance.

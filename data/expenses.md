@@ -1,0 +1,1 @@
+Employees may submit business-related expenses up to $250 per item without prior approval. Expenses above $250 require written sign-off from a director. Receipts must be submitted within 30 days. Personal items or travel upgrades are not reimbursable under any circumstances.

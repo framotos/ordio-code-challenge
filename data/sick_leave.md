@@ -1,0 +1,1 @@
+Full-time employees receive 10 sick-leave days per calendar year, pro-rated for part-timers. Requests beyond two consecutive days require a doctor’s note. Sick-leave balances carry over up to 5 days but expire six months after year-end. HR may audit usage for patterns of abuse.

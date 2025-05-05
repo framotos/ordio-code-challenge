@@ -1,0 +1,1 @@
+In the event of the death of an immediate family member, employees may take up to 5 days of paid bereavement leave. Additional unpaid leave may be granted at the manager’s discretion. Documentation may be requested by HR. This does not cover extended family or non-relatives.

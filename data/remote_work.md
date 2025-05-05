@@ -1,0 +1,1 @@
+Full-time staff may request remote-work status up to two days per week, subject to manager approval. Requests must include a suitable workspace description and equipment list. The policy excludes employees in client-facing roles unless expressly permitted. All remote workers must log weekly status in the team dashboard.

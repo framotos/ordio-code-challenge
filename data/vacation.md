@@ -1,0 +1,1 @@
+Employees working at least 20 hours per week accrue 1.25 vacation days per full month, up to 15 days per calendar year. Unused days expire at year-end, except during company-declared holidays. Supervisors must approve all vacation requests at least two weeks in advance. Note: this policy does not apply to contractors or interns.

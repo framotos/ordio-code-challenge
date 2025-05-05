@@ -1,0 +1,1 @@
+All business travel must use company-preferred vendors and be booked through the corporate travel portal. Per-diem rates follow the U.S. General Services Administration schedule. Travel insurance is optional but recommended for international trips. Any deviation requires an exception form.

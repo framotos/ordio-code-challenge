@@ -1,0 +1,1 @@
+Eligible employees get up to 12 weeks of maternity leave at 100% pay, plus an optional additional 4 weeks unpaid. Employees must notify HR at least 30 days before their due date. Coverage of benefits continues throughout the leave period. This benefit is separate from disability insurance.

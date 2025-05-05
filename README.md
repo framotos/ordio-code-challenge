@@ -1,7 +1,20 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+## Ordio Coding challenge
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+### Build a mini Retrieval-Augmented Generation (RAG) prototype over a noisy HR-policy corpus. You’ll:
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+- Embed and index 10 policy snippets (stored in /data)
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+- Retrieve context for a user query
+
+- Prompt an LLM to answer using that context
+
+- Evaluate hit-rate and cost under a token-budget
+
+- Choose and justify your own evaluation metric(s)
+
+### Use the following 3 queries for your evaluation:
+
+1. “How many sick‐leave days carry over, and when do they expire?”
+2. “What’s the length of fully paid maternity leave, and how much notice is needed?”
+3. “How many days per week can staff work remotely, and what must their request include?”
+ 
