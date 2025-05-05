@@ -8,7 +8,7 @@
 
 - Prompt an LLM to answer using that context
 
-- Evaluate hit-rate and cost under a token-budget
+- Evaluate hit-rate (e.g. through comparing the LLMs output with a "gold-answer" for each query) and cost under a token-budget
 
 - Choose and justify your own evaluation metric(s)
 
